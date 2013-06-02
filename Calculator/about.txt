@@ -2,4 +2,4 @@ Calculator
 ==========
 
 
-This is a simple calculator app, that does only basic mathematical operations.
+This is a simple calculator app, that does basic mathematical operations.
