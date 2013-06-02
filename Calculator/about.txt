@@ -1,0 +1,5 @@
+Calculator
+==========
+
+
+This is a simple calculator app, that does only basic mathematical operations.
