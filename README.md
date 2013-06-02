@@ -8,4 +8,6 @@ Follow the following steps to import the project.
 (File->Import->Anroid->Existing Android Code Into Workspace->'specify the path of the directory and select the project')
 
 
-Note:Refer "about.txt" for details of any project.("about.txt" is present in each project directory)
+Note:
+1.Each directory in this repo repesents an android project.
+2.Refer "about.txt" for details of any project.("about.txt" is present in each project directory)
